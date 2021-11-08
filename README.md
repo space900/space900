@@ -1,8 +1,8 @@
-### Hello there. Web developer from Moscow area 🖥️
+### Hello there. Web developer from Moscow area. 🖥️
 
-About
+##### Currently i work in RedWillow web studio in Moscow.
 
-Latest
+<br>
 
 ### Current Stack
 

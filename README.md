@@ -1,5 +1,4 @@
 ### Hello, there's junior web developer from Moscow area. 🖥️
-<br>
 
 #### Currently i work in RedWillow web studio in Moscow.
 #### The last few projects that I've done:

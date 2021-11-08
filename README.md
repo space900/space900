@@ -19,13 +19,13 @@
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=space900&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=space900&show_icons=true&custom_title=Space900'th)
 
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=space900&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<br> 
 
 ### Follow me
 
@@ -33,3 +33,10 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-454545?style=flat-square&logo=telegram)](https://t.me/beyond900)
 [![Instagram](https://img.shields.io/badge/-Instagram-454545?style=flat-square&logo=instagram)](https://www.instagram.com/beyondmyspace)
 [![Vk](https://img.shields.io/badge/-vk-454545?style=flat-square&logo=vk)](https://vk.com/hnykin_andrey)
+
+
+
+<br>
+
+
+![Profile views](https://gpvc.arturio.dev/space900)

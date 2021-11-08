@@ -4,7 +4,7 @@ About
 
 Latest
 
-Tools
+### Stack
 
 ![Javascript](https://img.shields.io/badge/-JavaScript-232323?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-232323?style=flat-square&logo=react)
@@ -18,8 +18,9 @@ Tools
 ![Css](https://img.shields.io/badge/-CSS-232323?style=flat-square&logo=css3)
 
 
-Follow me
+### Follow me
 
-![Telegram](https://img.shields.io/badge/-Telegram-656565?style=flat-square&logo=telegram)
-![Instagram](https://img.shields.io/badge/-Instagram-656565?style=flat-square&logo=instagram)
-![Vk](https://img.shields.io/badge/-vk-656565?style=flat-square&logo=vk)
+
+![Telegram](https://img.shields.io/badge/-Telegram-454545?style=flat-square&logo=telegram)
+![Instagram](https://img.shields.io/badge/-Instagram-454545?style=flat-square&logo=instagram)
+![Vk](https://img.shields.io/badge/-vk-454545?style=flat-square&logo=vk)

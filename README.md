@@ -1,5 +1,4 @@
 ### Hello there. Web developer from Moscow area. 🖥️
-
 ##### Currently i work in RedWillow web studio in Moscow.
 
 <br>
@@ -27,7 +26,7 @@
 
 <br> 
 
-### Follow me
+### Contacts
 
 
 [![Telegram](https://img.shields.io/badge/-Telegram-454545?style=flat-square&logo=telegram)](https://t.me/beyond900)

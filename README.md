@@ -2,8 +2,7 @@
 
 #### Currently i work in RedWillow web studio in Moscow.
 #### The last few projects that I've done:
-##### [RedWillow](https://redwillow.ru) / [Обогрев кабелем](https://mskobogrev.ru) / [Духанина и партнеры](https://адвокат-духанина.рф)
-
+##### [RedWillow](https://redwillow.ru) / [Обогрев кабелем](https://mskobogrev.ru)
 
 <br>
 

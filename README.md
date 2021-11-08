@@ -1,10 +1,10 @@
-## Hello everyone. I'm Andrey. I do web development
+### Hello there. Web developer from Moscow area 🖥️
 
 About
 
 Latest
 
-### Stack
+### Current Stack
 
 ![Javascript](https://img.shields.io/badge/-JavaScript-232323?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-232323?style=flat-square&logo=react)
@@ -21,6 +21,6 @@ Latest
 ### Follow me
 
 
-![Telegram](https://img.shields.io/badge/-Telegram-454545?style=flat-square&logo=telegram)
-![Instagram](https://img.shields.io/badge/-Instagram-454545?style=flat-square&logo=instagram)
-![Vk](https://img.shields.io/badge/-vk-454545?style=flat-square&logo=vk)
+[![Telegram](https://img.shields.io/badge/-Telegram-454545?style=flat-square&logo=telegram)](https://t.me/beyond900)
+[![Instagram](https://img.shields.io/badge/-Instagram-454545?style=flat-square&logo=instagram)](https://www.instagram.com/beyondmyspace)
+[![Vk](https://img.shields.io/badge/-vk-454545?style=flat-square&logo=vk)](https://vk.com/hnykin_andrey)

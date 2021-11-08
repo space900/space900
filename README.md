@@ -17,6 +17,15 @@ Latest
 ![HTML](https://img.shields.io/badge/-HTML-232323?style=flat-square&logo=html5)
 ![Css](https://img.shields.io/badge/-CSS-232323?style=flat-square&logo=css3)
 
+<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=space900&show_icons=true)
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=space900&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ### Follow me
 

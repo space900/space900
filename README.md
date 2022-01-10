@@ -18,6 +18,10 @@
 ![vscode](https://img.shields.io/badge/-VSCode-232323?style=flat-square&logo=visualstudio)
 ![HTML](https://img.shields.io/badge/-HTML-232323?style=flat-square&logo=html5)
 ![Css](https://img.shields.io/badge/-CSS-232323?style=flat-square&logo=css3)
+![Figma](https://img.shields.io/badge/-Figma-232323?style=flat-square&logo=figma)
+![Photoshop](https://img.shields.io/badge/-Photoshop-232323?style=flat-square&logo=adobe-photoshop)
+![Lightroom](https://img.shields.io/badge/-Lightroom-232323?style=flat-square&logo=adobe-lightroom)
+![Postman](https://img.shields.io/badge/-Postman-232323?style=flat-square&logo=postman)
 
 <br>
 

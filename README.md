@@ -1,8 +1,8 @@
 ### Hello, there's junior web developer from Moscow area. 🖥️
 
-#### Currently i work in RedWillow web studio in Moscow.
-#### The last few projects that I've done:
-##### [RedWillow](https://redwillow.ru) / [Обогрев кабелем](https://mskobogrev.ru) / [Покраска кондиционеров](https://покраска-кондиционеров.рф)
+<!-- #### Currently i work in RedWillow web studio in Moscow. -->
+<!-- #### The last few projects that I've done: -->
+<!-- ##### [RedWillow](https://redwillow.ru) / [Обогрев кабелем](https://mskobogrev.ru) / [Покраска кондиционеров](https://покраска-кондиционеров.рф) -->
 
 <br>
 

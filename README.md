@@ -21,6 +21,8 @@
 ![Figma](https://img.shields.io/badge/-Figma-232323?style=flat-square&logo=figma)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-232323?style=flat-square&logo=adobe-photoshop)
 ![Postman](https://img.shields.io/badge/-Postman-232323?style=flat-square&logo=postman)
+![Php](https://img.shields.io/badge/-Php-232323?style=flat-square&logo=php)
+
 
 <br>
 

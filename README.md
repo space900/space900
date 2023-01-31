@@ -18,6 +18,8 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-232323?style=flat-square&logo=adobe-photoshop)
 ![Postman](https://img.shields.io/badge/-Postman-232323?style=flat-square&logo=postman)
 ![Php](https://img.shields.io/badge/-PHP-232323?style=flat-square&logo=php)
+![Php](https://img.shields.io/badge/-PHP-232323?style=flat-square&logo=php)
+![Nginx](https://img.shields.io/badge/-NGINX-232323?style=flat-square&logo=nginx)
 
 
 <br>

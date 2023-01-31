@@ -11,7 +11,7 @@
 ![Node](https://img.shields.io/badge/-Node.js-232323?style=flat-square&logo=node.js)
 ![Mongo](https://img.shields.io/badge/-Mongo-232323?style=flat-square&logo=mongodb)
 ![Express](https://img.shields.io/badge/-Express-232323?style=flat-square&logo=express)
-![vscode](https://img.shields.io/badge/-VSCode-232323?style=flat-square&logo=visualstudio)
+![Nginx](https://img.shields.io/badge/-NGINX-232323?style=flat-square&logo=nginx)
 ![HTML](https://img.shields.io/badge/-HTML-232323?style=flat-square&logo=html5)
 ![Css](https://img.shields.io/badge/-CSS-232323?style=flat-square&logo=css3)
 ![Figma](https://img.shields.io/badge/-Figma-232323?style=flat-square&logo=figma)
@@ -19,7 +19,9 @@
 ![Postman](https://img.shields.io/badge/-Postman-232323?style=flat-square&logo=postman)
 ![Php](https://img.shields.io/badge/-PHP-232323?style=flat-square&logo=php)
 ![Php](https://img.shields.io/badge/-PHP-232323?style=flat-square&logo=php)
-![Nginx](https://img.shields.io/badge/-NGINX-232323?style=flat-square&logo=nginx)
+![vscode](https://img.shields.io/badge/-VSCode-232323?style=flat-square&logo=visualstudio)
+![phpstorm](https://img.shields.io/badge/-PhpStorm-232323?style=flat-square&logo=phpstorm)
+
 
 
 <br>

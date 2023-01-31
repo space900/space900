@@ -1,9 +1,5 @@
 ### Hello, there's frontend developer from Moscow area. 🖥️
 
-<!-- #### Currently i work in RedWillow web studio in Moscow. -->
-<!-- #### The last few projects that I've done: -->
-<!-- ##### [RedWillow](https://redwillow.ru) / [Обогрев кабелем](https://mskobogrev.ru) / [Покраска кондиционеров](https://покраска-кондиционеров.рф) -->
-
 <br>
 
 ### Current Stack
@@ -26,13 +22,8 @@
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=space900&show_icons=true&custom_title=Space900'th)
-
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=space900&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<br> 
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=space900&show_icons=true&custom_title=Space900'th) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=space900&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ### Contacts
 

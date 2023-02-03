@@ -22,6 +22,9 @@
 ![Figma](https://img.shields.io/badge/-Figma-232323?style=flat-square&logo=figma)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-232323?style=flat-square&logo=adobe-photoshop)
 
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=space900&layout=compact)](https://github.com/space900/github-readme-stats)
 
 
 <br>

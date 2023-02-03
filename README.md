@@ -24,11 +24,6 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=space900&layout=compact)](https://github.com/space900/github-readme-stats)
-
-
-<br>
-
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=space900&show_icons=true&custom_title=Space900'th) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=space900&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
@@ -43,5 +38,8 @@
 
 <br>
 
-
 ![Profile views](https://gpvc.arturio.dev/space900)
+
+<br>
+
+[![codewars](https://www.codewars.com/users/space900/badges/small)](https://www.codewars.com/users/space900) 

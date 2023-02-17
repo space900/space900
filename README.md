@@ -42,6 +42,6 @@
 
 ![Profile views](https://gpvc.arturio.dev/space900)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=space900&theme=light&background=ffffff)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=space900&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=space900&theme=light&background=ffffff)](https://git.io/streak-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=space900&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
 

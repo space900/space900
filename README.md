@@ -5,6 +5,7 @@
 ### Current Stack
 
 ![Javascript](https://img.shields.io/badge/-JavaScript-232323?style=flat-square&logo=javascript)
+![Typescript](https://img.shields.io/badge/-TypeScript-232323?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/-React-232323?style=flat-square&logo=react)
 ![GIT](https://img.shields.io/badge/-Git-232323?style=flat-square&logo=git)
 ![Webpack](https://img.shields.io/badge/-Webpack-232323?style=flat-square&logo=webpack)

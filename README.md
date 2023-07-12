@@ -21,7 +21,6 @@
 ![vscode](https://img.shields.io/badge/-VSCode-232323?style=flat-square&logo=visualstudio)
 ![phpstorm](https://img.shields.io/badge/-PhpStorm-232323?style=flat-square&logo=phpstorm)
 ![Figma](https://img.shields.io/badge/-Figma-232323?style=flat-square&logo=figma)
-![Photoshop](https://img.shields.io/badge/-Photoshop-232323?style=flat-square&logo=adobe-photoshop)
 
 <br>
 

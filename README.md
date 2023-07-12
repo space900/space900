@@ -34,7 +34,7 @@
 
 <br>
 
-<a href=""> <img align="center" src="(http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={space900}&theme={default})"/> </a>
+<a href=""> <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={space900}&theme={default}"/> </a>
 
 <br>
 

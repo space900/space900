@@ -30,6 +30,7 @@
 <br>
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=space900&show_icons=true&custom_title=space900'th) -->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=space900&theme=light&background=ffffff)](https://git.io/streak-stats)
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=space900&theme=react&line_height=40&hide=css"/> </a>
 
 ### Contacts
@@ -38,9 +39,3 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-454545?style=flat-square&logo=telegram)](https://t.me/beyond900)
 [![Instagram](https://img.shields.io/badge/-Instagram-454545?style=flat-square&logo=instagram)](https://www.instagram.com/beyondmyspace)
 [![Vk](https://img.shields.io/badge/-vk-454545?style=flat-square&logo=vk)](https://vk.com/hnykin_andrey)
-
-<br>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=space900&theme=light&background=ffffff)](https://git.io/streak-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=space900&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
-

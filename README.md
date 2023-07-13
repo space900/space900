@@ -36,6 +36,10 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=space900&theme=light&background=ffffff)](https://git.io/streak-stats)
 
+<br>
+
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=space900)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Contacts
 
 

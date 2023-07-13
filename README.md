@@ -30,12 +30,11 @@
 
 <br>
 
-<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=space900&line_height=40&hide=css"/> </a>
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=space900&layout=pie&line_height=40&hide=css"/> </a>
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=space900&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-<-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=space900&theme=light&background=ffffff)](https://git.io/streak-stats) -->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=space900&theme=light&background=ffffff)](https://git.io/streak-stats)
 
 ### Contacts
 

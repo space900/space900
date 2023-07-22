@@ -30,7 +30,7 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=space900&layout=compact&hide=html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=space900&layout=compact&hide=html,css)
 
 <br>
 

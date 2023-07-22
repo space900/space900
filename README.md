@@ -30,7 +30,7 @@
 
 <br>
 
-<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=space900&layout=pie&line_height=40&hide=css"/> </a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=space900&layout=compact&hide=html)
 
 <br>
 

@@ -20,7 +20,6 @@
 ![Php](https://img.shields.io/badge/-PHP-232323?style=flat-square&logo=php)
 ![vscode](https://img.shields.io/badge/-VSCode-232323?style=flat-square&logo=visualstudio)
 ![phpstorm](https://img.shields.io/badge/-PhpStorm-232323?style=flat-square&logo=phpstorm)
-![Figma](https://img.shields.io/badge/-Figma-232323?style=flat-square&logo=figma)
 
 <br>
 

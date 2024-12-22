@@ -4,6 +4,7 @@
 
 ### Current Stack
 
+![Svelte](https://img.shields.io/badge/-Svelte-232323?style=flat-square&logo=svelte)
 ![Javascript](https://img.shields.io/badge/-JavaScript-232323?style=flat-square&logo=javascript)
 ![Typescript](https://img.shields.io/badge/-TypeScript-232323?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/-React-232323?style=flat-square&logo=react)
